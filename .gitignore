@@ -1,0 +1,4 @@
+.prettierignore
+config.yaml
+service-account.json
+.env
