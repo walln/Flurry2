@@ -2,7 +2,7 @@
 
 ## Description
 
-Flurry is a L7 application proxy designed to connect, monitor, and secure http requests. All requests to a flurry server are proxied upstream to the specified server. This enables highly concurrent traffic routing and middleware for your applications.
+Flurry is an application proxy designed to connect, monitor, and secure http requests. All requests to a flurry server are proxied upstream to the specified server. This enables highly concurrent traffic routing and middleware for your applications.
 
 ### Configuring
 
